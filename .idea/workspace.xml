@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c1c253ef-579b-469a-95a5-4de6a4fafcea" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SWqFCKjfWxZHmyX2E7IXmvejCa" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Crypto">
+    <configuration name="Crypto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Crypto" />
+      <module name="Crypto1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Crypto1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Crypto" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c1c253ef-579b-469a-95a5-4de6a4fafcea" name="Default Changelist" comment="" />
+      <created>1571689596268</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571689596268</updated>
+      <workItem from="1571689605453" duration="3166000" />
+      <workItem from="1571730332754" duration="19000" />
+      <workItem from="1571813295820" duration="30120000" />
+      <workItem from="1572165433564" duration="11000" />
+      <workItem from="1572369086542" duration="5756000" />
+      <workItem from="1572418573968" duration="4184000" />
+      <workItem from="1572781707673" duration="592000" />
+      <workItem from="1572800427605" duration="5137000" />
+      <workItem from="1572851334925" duration="2819000" />
+      <workItem from="1572935575025" duration="937000" />
+      <workItem from="1572940186282" duration="10958000" />
+      <workItem from="1573588642782" duration="3586000" />
+      <workItem from="1573719451081" duration="609000" />
+      <workItem from="1574100998642" duration="88000" />
+      <workItem from="1574240875897" duration="347000" />
+      <workItem from="1574241963133" duration="1329000" />
+      <workItem from="1574719308431" duration="183000" />
+      <workItem from="1635760502741" duration="112000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
